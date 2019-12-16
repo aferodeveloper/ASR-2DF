@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:41:51 AM On 12/16/19
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [ASR-2DF - Connectorized Appliance FF] of Schematic Document [ASR-2DF.SchDoc]
+   Generated File[Bill of Materials-ASR-2DF(ASR-2DF - Connectorized Appliance FF).csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:42:03 AM On 12/16/19

@@ -1,0 +1,72 @@
+Altium Designer Pick and Place Locations
+Z:\wrk\Afero\asr-2d_ESP32\staging\HW-ASR-2DF\./gerbers\Pick Place for ASR-2DF.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/12/19
+Time:       18:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                
+X1         32.768kHz       TopLayer ABS06            1179.457      416.000       360      "Crystal, 32.768kHz ±20ppm"                
+R2         10k             TopLayer 0402R-GENERIC    760.000       -220.000      0        "Resistor 10K 50V 5% 0402"                 
+R1         10k             TopLayer 0402R-GENERIC    1315.000      397.890       180      "Resistor 10K 50V 5% 0402"                 
+C4         18pF            TopLayer 0402C-GENERIC    1112.000      416.000       90       "Capacitor, 18pF, 50V, 1%, C0G"            
+C2         18pF            TopLayer 0402C-GENERIC    1247.000      416.000       90       "Capacitor, 18pF, 50V, 1%, C0G"            
+Q3         MMBT3904        TopLayer SOT23            451.111       -36.500       360      "TR NPN BJT 200mA 40V"                     
+J5         BM06B-PASS-1    TopLayer BM06B-PASS-1     169.090       0.010         90       "JST PA-Family Vertical Header 2mm"        
+R32        10k             TopLayer 0402R-GENERIC    455.000       180.000       180      "Resistor 10K 50V 5% 0402"                 
+R31        10k             TopLayer 0402R-GENERIC    491.165       48.000        360      "Resistor 10K 50V 5% 0402"                 
+R11        10k             TopLayer 0402R-GENERIC    760.000       -150.000      180      "Resistor 10K 50V 5% 0402"                 
+Q5         SSM6N7002CFU    TopLayer SOT363           470.000       115.000       0        "TR 2xNFET 170mA 60V"                      
+D16        TPD1E05U06      TopLayer SON70P100X45-2N  363.685       44.370        0        "Diode TVS"                                
+D15        TPD1E05U06      TopLayer SON70P100X45-2N  363.685       140.000       0        "Diode TVS"                                
+U2         ATECC508A       TopLayer SON50P300X60-8N  690.000       -315.000      0        "Afero Custom CryptoAuthentication Device" 
+C1         100nF           TopLayer 0402C-GENERIC    1525.000      385.000       0        "Capacitor 100nF X5R 50V 10% 0402"         
+C3         100nF           TopLayer 0402C-GENERIC    760.000       -255.000      360      "Capacitor 100nF X5R 50V 10% 0402"         
+C5         1uF             TopLayer 0402C-GENERIC    272.000       -451.536      180      "Capacitor 1uF X5R 6.3V 20% 0402"          
+C6         10uF            TopLayer 0603C-GENERIC    645.000       352.500       90       "Capacitor 10uF X5R 16V 20% 0603"          
+C7         10uF            TopLayer 0603C-GENERIC    1532.500      422.000       0        "Capacitor 10uF X5R 16V 20% 0603"          
+C8         20pF            TopLayer 0402C-GENERIC    498.000       254.000       180      "Capacitor 20pF C0G 50V 1% 0402"           
+C9         2.2uF           TopLayer 0603C-GENERIC    328.000       377.501       270      "Capacitor 2.2uF X5R 25V 10% 0603"         
+C10        100nF           TopLayer 0402C-GENERIC    293.000       385.000       270      "Capacitor 100nF X5R 50V 10% 0402"         
+C11        100nF           TopLayer 0402C-GENERIC    376.001       218.000       270      "Capacitor 100nF X5R 50V 10% 0402"         
+C12        1uF             TopLayer 0402C-GENERIC    551.332       266.890       270      "Capacitor 1uF X5R 6.3V 20% 0402"          
+D1         SP3118-01ETG    TopLayer SOD882           260.000       385.000       270      "Diode TVS"                                
+D2         TPD1E05U06      TopLayer SON70P100X45-2N  271.858       -418.426      180      "Diode TVS"                                
+D3         TPD1E05U06      TopLayer SON70P100X45-2N  250.000       -353.504      270      "Diode TVS"                                
+D11        TPD1E05U06      TopLayer SON70P100X45-2N  339.315       -288.000      180      "Diode TVS"                                
+D12        TPD1E05U06      TopLayer SON70P100X45-2N  560.000       -266.315      90       "Diode TVS"                                
+J4         HDR-2x5         TopLayer S9015E-05        445.000       -378.000      360      ".050 Male Header 2x5"                     
+L1         10uH            TopLayer ASPI-0315FS      563.000       368.693       270      "Inductor 10uH 1.1A 0.22ohm 20% 3x3"       
+R4         10k             TopLayer 0402R-GENERIC    760.000       -185.000      180      "Resistor 10K 50V 5% 0402"                 
+R6         100             TopLayer 0402R-GENERIC    1140.000      -395.000      360      "Resistor 100R 50V 5% 0402"                
+R7         4.7k            TopLayer 0402R-GENERIC    813.110       -305.158      270      "Resistor 4.7K 50V 5% 0402"                
+R8         4.7k            TopLayer 0402R-GENERIC    785.793       -305.158      270      "Resistor 4.7K 50V 5% 0402"                
+R9         100k            TopLayer 0402R-GENERIC    290.000       -351.536      90       "Resistor 100K 50V 5% 0402"                
+R10        100k            TopLayer 0402R-GENERIC    393.000       -271.000      270      "Resistor 100K 50V 5% 0402"                
+R15        200K            TopLayer 0402R-GENERIC    344.868       217.346       90       "Resistor 200K 50V 1% 0402"                
+R16        680k            TopLayer 0402R-GENERIC    498.000       287.000       360      "Resistor 680K 50V 5% 0402"                
+R21        200k            TopLayer 0402R-GENERIC    430.000       288.000       360      "Resistor 200K 50V 1% 0402"                
+R30        0               TopLayer 0402R-GENERIC    617.000       285.999       180      "Resistor 0R 50V 1% 0402"                  
+U3         XC9264B755MR    TopLayer SOT95P275X130-5N 426.000       365.000       360      "Voltage Regulator 0.5A 500KHz Buck"       
+C14        1uF             TopLayer 0402C-GENERIC    796.000       221.000       270      "Capacitor 1uF X5R 6.3V 20% 0402"          
+D13        TPD1E05U06      TopLayer SON70P100X45-2N  481.000       -267.315      90       "Diode TVS"                                
+D14        TPD1E05U06      TopLayer SON70P100X45-2N  527.000       -266.315      90       "Diode TVS"                                
+R12        10k             TopLayer 0402R-GENERIC    764.000       221.000       90       "Resistor 10K 50V 5% 0402"                 
+R17        100             TopLayer 0402R-GENERIC    795.000       341.000       180      "Resistor 100R 50V 5% 0402"                
+R18        100             TopLayer 0402R-GENERIC    795.000       305.000       180      "Resistor 100R 50V 5% 0402"                
+R19        100             TopLayer 0402R-GENERIC    423.000       -271.000      270      "Resistor 100R 50V 5% 0402"                
+R20        100             TopLayer 0402R-GENERIC    451.000       -271.000      270      "Resistor 100R 50V 5% 0402"                
+MOD1       ESP32-WROOM-32D TopLayer ESP32-WROOM-32D  1209.953      0.000         270      "Module WIFI BLE ESP32-D0WD SPI Flash"     
+C13        100nF           TopLayer 0402C-GENERIC    785.000       171.000       360      "Capacitor 100nF X5R 50V 10% 0402"         
+Q4         MMBT3904        TopLayer SOT23            451.111       -156.500      360      "TR NPN BJT 200mA 40V"                     
+R13        10k             TopLayer 0402R-GENERIC    605.000       167.000       180      "Resistor 10K 50V 5% 0402"                 
+U1         IPS6404L-SQ     TopLayer IPUS.PSRAM       680.000       49.717        0        "Memory SPI/QPI PSRAM 8MB SOIC8 150mil"    
+R28        10k             TopLayer 0402R-GENERIC    350.000       -17.000       90       "Resistor 10K 50V 5% 0402"                 
+R29        10k             TopLayer 0402R-GENERIC    350.000       -102.000      270      "Resistor 10K 50V 5% 0402"                 
+FB1        FB_120ohm       TopLayer BLM15            365.000       110.000       360      "FERRITE BEAD 120OHM 0402 1LN"             
+FB2        FB_120ohm       TopLayer BLM15            364.000       75.000        360      "FERRITE BEAD 120OHM 0402 1LN"             
